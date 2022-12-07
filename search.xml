@@ -1,15 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>网站测试</title>
-    <url>/2022/11/29/My-New-Post/</url>
-    <content><![CDATA[<p>欢迎来到桜井的博客，这里是测试文章。</p>
+    <title>【Lineage OS更新】Xiaomi Redmi 7(onclite)</title>
+    <url>/2022/12/07/Lineage%20OS%20-Xiaomi%20Redmi%20720221204/</url>
+    <content><![CDATA[<p><img src="https://pic.imgdb.cn/item/63907510b1fccdcd365d0e06.png"><br>Android版本:12<br>构建日期:20221204<br>版本:每夜版<br>构建:官方  </p>
+<p>更新日志:  </p>
+<p>下载链接:<br><a href="http://uni.sakuraikaede.online/CtVpR">Download</a>  </p>
+<p>Recovery镜像:<br><a href="http://uni.sakuraikaede.online/1tzvM">Download</a></p>
 ]]></content>
+      <categories>
+        <category>ROM上新</category>
+      </categories>
+      <tags>
+        <tag>ROM上新</tag>
+      </tags>
   </entry>
   <entry>
     <title>test</title>
     <url>/2022/11/29/test/</url>
     <content><![CDATA[<p>这是第二个测试文章</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>网站测试</title>
+    <url>/2022/11/29/My-New-Post/</url>
+    <content><![CDATA[<p>欢迎来到桜井的博客，这里是测试文章。</p>
 ]]></content>
   </entry>
 </search>
